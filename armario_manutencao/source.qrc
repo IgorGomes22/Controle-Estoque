@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>icones/add.png</file>
+        <file>icones/edit.png</file>
+        <file>icones/inventary.png</file>
+        <file>icones/location.png</file>
+        <file>icones/menu.png</file>
+        <file>icones/register.png</file>
+        <file>icones/remove.png</file>
+        <file>icones/search.png</file>
+	<file>icones/refresh.png</file>
+	<file>icones/delete.png</file>
+	<file>icones/analitc.png</file>
+	<file>icones/importExport.png</file>
+	<file>icones/print.png</file>
+	<file>icones/excel.png</file>
+	<file>icones/addbd.png</file>
+	<file>icones/eletricista.jpg</file>
+	<file>icones/mecanico.jpg</file>
+	<file>icones/total.jpg</file>
+    </qresource>
+</RCC>

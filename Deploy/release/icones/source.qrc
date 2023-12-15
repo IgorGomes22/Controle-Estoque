@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="icones">
+    <file>edit.png</file>
+    <file>location.png</file>
+    <file>search.png</file>
+    <file>menu.png</file>
+    <file>add.png</file>
+    <file>inventary.png</file>
+    <file>register.png</file>
+    <file>remove.png</file>
+  </qresource>
+</RCC>
