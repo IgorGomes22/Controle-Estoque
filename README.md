@@ -1,7 +1,7 @@
 # Controle-Estoque
  
 # Controle de Estoque para Equipe de Manutenção
-
+![0](https://github.com/IgorGomes22/Controle-Estoque/assets/88172222/3410cd34-4237-4bb1-9963-864b21ed5948)
 Este é um projeto de controle de estoque desenvolvido para a equipe de manutenção, utilizando o framework Qt Creator. O backend foi implementado em C++, e o banco de dados escolhido foi o SQLite.
 
 ## Funcionalidades Principais
